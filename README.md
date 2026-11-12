@@ -23,4 +23,22 @@ And these all 4 types of programms are supported by Control OC, this is incredib
 ## But Control OC is about control, so, where is customization?
 ## Customization there is more, than you think:
 * **OneTheme:** By the OneTheme, all of the Ckrnl Utility programs are using same colors/themes that is setted into system.
-* 
+
+## By OneTheme, you can:
+* Color **ControlScriptGUI** applications, that are Ckrnl Utility packages.
+* Change **color and settings** of Window Manager.
+* Change **position/icons of buttons** in Window Manager.
+* **Decorate** your application
+* So, by OneTheme, your **Control OC** is transforming into **one-tone** color system.
+
+## But with that all, isn't Control OC have much vulnerabilities?
+## No, it is not like that:
+* **SRP (Secure Root Permission):** This function is saving you from sucure data leaks.
+* **SRP Data:** With this function, your programms are able to safely contain secure data so no one could leak secure data.
+* **Super user backdoors:** In Control OC, there is using AUP system.
+
+## What is AUP system:
+* **Transcription:** This word means "Another-User-Processes".
+* **How does it work:** This system is creating another user in this system, and user is loaded by another user, while system is using system's native user.
+* **Why this:** Because TinyCoreLinux system is using "tc" as user, changing it will permanently block system to start.
+
